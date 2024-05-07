@@ -1,6 +1,0 @@
-## Parameter
-# prior
-
-# breif
-
- 
